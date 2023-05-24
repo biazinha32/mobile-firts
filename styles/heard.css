@@ -7,3 +7,9 @@
 .container_botao:checked~.container_rotulo{
   background: var(--azul-degrade);
 }
+.cabeçalhoo[
+ backgrou-collor:var(--branco);
+ diplay: flex;
+justify-content: space-between;
+align-items: center; poition:relative;
+}
