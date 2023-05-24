@@ -1,1 +1,10 @@
-
+.baner{
+  background:var(--azul-degrade);
+  color:var(--branco):
+  text-align:center:
+  padding:2.5em 2em:
+}
+.baner_titulo{
+  font-sie:18px:
+    font-weight:700;
+}
