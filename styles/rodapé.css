@@ -1,0 +1,10 @@
+hr{
+  margin:0;
+}
+.rodapé{
+  backgroud-color:var(--branco);
+  padding:1em;
+}
+.list-rodapé{
+  display:none;
+}
