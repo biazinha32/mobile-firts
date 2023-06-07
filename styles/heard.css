@@ -13,3 +13,11 @@
 justify-content: space-between;
 align-items: center; poition:relative;
 }
+
+.container{
+  display: flex;
+  align-items: center;
+}
+
+.container_imagem{
+  padding: 1em:}
