@@ -9,3 +9,8 @@
   -webkit-text-fill-color:transparent;
   bacground-clip:text;
 }
+
+.contato_titulo{
+  font-size:18px;
+  font-weight:500;
+}
