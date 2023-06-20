@@ -31,3 +31,14 @@ align-items: center; poition:relative;
 .container_botao:checked~lista-menu{
   display: block;
 }
+
+.lista-menu_titulo,
+.lista-menu-item{
+  padding:1em:
+  background-color:var(--branco);
+}
+
+.lista-menu_titulo{
+  color:var(--laranja);
+  font-weight:700;
+}
