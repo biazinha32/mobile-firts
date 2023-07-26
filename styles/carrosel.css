@@ -16,3 +16,14 @@ width:100%;
 .swiper-button-next{
   display:none;
 }
+
+.swiper-pagition {
+  position: initial;
+  margin: .5em o;
+
+}
+
+.card_descrição {
+  display: flex;
+  justify-content: space-between;
+  margin-bottom: 0.5em;
