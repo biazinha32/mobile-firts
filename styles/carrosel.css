@@ -61,3 +61,26 @@ width:100%;
 .descrição_texto {
   font-size: 14px;
 }
+
+.botões_item {
+  margin: 0 0.5em;
+}
+ .botões_ancora {
+   backgroud-color: var(--laranja);
+   padding: 1em 2.2em;
+   color: var(--branco);
+   font-decoration: none;
+ }
+
+@media screen and (min-width: 1024px)
+.carrosel_titulo {
+  font-size: 26px;
+}
+
+.swiper-pagination {
+  margin: 2em 0 3em 0;
+}
+
+.swiper {
+  width: 60%;
+}
