@@ -103,3 +103,11 @@ width:100%;
     margin: 0 20 vw 3em 20vw;
     align-items: center;
   }
+
+.swiper-pagination {
+  margin: 1em 0;
+}
+
+.swiper {
+  width: 50%;
+}
