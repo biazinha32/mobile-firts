@@ -98,7 +98,7 @@ width:100%;
 }
 
 @media screen and (min-width: 1728px) {
-  .carrossel_contaoner {
+  .carrossel_container {
     display: flex;
     margin: 0 20 vw 3em 20vw;
     align-items: center;
