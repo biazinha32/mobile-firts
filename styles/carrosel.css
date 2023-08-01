@@ -94,3 +94,12 @@ width:100%;
 .car {
   width: 40%;
   margin: 2em auto;
+  }
+}
+
+@media screen and (min-width: 1728px) {
+  .carrossel_contaoner {
+    display: flex;
+    margin: 0 20 vw 3em 20vw;
+    align-items: center;
+  }
